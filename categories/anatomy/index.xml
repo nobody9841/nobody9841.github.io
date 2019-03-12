@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anatomy on Notebook by Nobody9841</title>
+    <link>http://localhost:1313/categories/anatomy/</link>
+    <description>Recent content in Anatomy on Notebook by Nobody9841</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 12 Mar 2019 17:06:57 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/anatomy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anatomy: Thorax</title>
+      <link>http://localhost:1313/post/anatomy-thorax/</link>
+      <pubDate>Tue, 12 Mar 2019 17:06:57 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/anatomy-thorax/</guid>
+      <description>Anatomy: Thorax 乳房 淋巴结回流 中央部、外侧部 -&amp;gt; 胸肌淋巴结 上部 -&amp;gt; 尖淋巴结、锁骨上淋巴结 内侧部 -&amp;gt; 胸骨旁淋巴结或对侧交通 内下部 -&amp;gt; 膈下淋巴管 -&amp;gt; 肝淋巴管 深部 -&amp;gt; 乳房</description>
+    </item>
+    
+  </channel>
+</rss>
